@@ -2,6 +2,7 @@ To run app this is the link https://fir-task-82b0d.firebaseapp.com/
 
 First page it's a signIn/signUp page. To sign in, simply click on the yellow link that says sign in, fill in the form and click on the sign in button, same process for signin up.
 If you don't want to sign up, the login details down below will sign you in.
+
 username: saldegennaro80@aol.com
 password: 123456
 
